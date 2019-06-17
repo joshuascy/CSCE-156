@@ -1,0 +1,4 @@
+3
+34gr;R; Dr Pepper-20oz;2.99
+34t3;S; Thanksgiving Promo; 2016-11-24;2016-11-25; 101.00
+34tgf;P;25.00

@@ -1,0 +1,2 @@
+Main-Class: phase1.DataConverter
+Class-Path: ./gson-2.7.jar

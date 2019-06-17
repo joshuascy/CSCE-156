@@ -1,0 +1,90 @@
+Executive Summary Report
+=========================
+Invoice   Customer                                          Salesperson                      Subtotal        Fees       Taxes    Discount       Total
+INV001    Stark Consultants [General]                       Sim, Joshua                   $     51.36 $      0.00 $      2.85 $    -0.00 $     54.21
+INV002    Lannister International [Student]                Simpson, Homer                 $   3805.93 $      6.75 $    218.24 $  -522.71 $   3508.21
+INV003    Breakfast Club [General]                         Griffin, Peter                 $    627.57 $      0.00 $     36.14 $    -0.00 $    663.71
+=====================================================================================================================================================
+TOTALS                                                                                    $   4484.86 $      6.75 $    257.23 $  -522.71 $   4216.13
+
+
+
+
+Individual Invoice Detail Reports
+==================================================
+Invoice INV001
+========================
+Salesperson: Sim, Joshua
+Customer Info: 
+  Stark Consultants (C001) 
+  [General]
+  Parker, Peter
+  324 Winterfell
+  Westeros MN 25333 USA
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+re4r4     MovieTicket 'Snowden' @ 123 S 12th St                                 $     40.00 $      2.40 $     42.40
+          Oct 05,2016 18:30 (2 units @ $20.00/unit)                                                                   
+e334      ParkingPass re4r4 (1 units @ $20.00 with 1 free)                      $      0.00 $      0.00 $      0.00
+34gr      Dr Pepper-20oz (4 units @ $2.99/unit with 5% off)                     $     11.36 $      0.45 $     11.81
+                                                                                ====================================
+SUB-TOTALS                                                                      $     51.36 $      2.85 $     54.21
+TOTAL                                                                                                   $     54.21
+
+
+			Thankyou for your purchase!
+
+
+Invoice INV002
+========================
+Salesperson: Simpson, Homer
+Customer Info: 
+  Lannister International(C002) 
+  [Student]
+  O'Brien, Connor
+  234 Casterly Rock
+  Westeros MN 23456 USA
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+fwert     Season Pass - Christmas Promo                                         $   2700.00 $    162.00 $   2862.00
+          (25 units @ $100.00/unit + $8 fee/unit)                                                                     
+re3r3     MovieTicket 'Sully' @ 456 S 13th St                                   $    599.85 $     36.00 $    635.85
+          Sep 20,2016 18:00 (30 units @ $21.50/unit - Tue/Thu 7% off)                                                 
+34tgf     ParkingPass fwert (30 units @ $25.00 with 23 free)                    $    175.00 $      7.00 $    182.00
+adsdf     Mega Caramel Popcorn (17 units @ $20.50/unit with 5% off)             $    331.08 $     13.24 $    334.32
+                                                                                ====================================
+SUB-TOTALS                                                                      $   3805.93 $    218.24 $   4024.17
+DISCOUNT ( 8%  STUDENT & NO TAX)                                                                        $   -522.71
+ADDITIONAL FEE (Student)                                                                                $      6.75
+TOTAL                                                                                                   $   3508.21
+
+
+			Thankyou for your purchase!
+
+
+Invoice INV003
+========================
+Salesperson: Griffin, Peter
+Customer Info: 
+  Breakfast Club (C003) 
+  [General]
+  Oliver, John
+  654 15th St
+  Fort Meade MD 20755 USA
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+re3r3     MovieTicket 'Sully' @ 456 S 13th St                                   $    139.97 $      8.40 $    148.37
+          Sept 20,2016 18:00 (7 units @ $21.50/unit - Tue/Thu 7% off)                                                  
+34t3      Season Pass - Thanksgiving Promo                                      $    411.60 $     24.70 $    436.30
+          (6 units @ $101.00/unit prorated 3/5 days + $8 fee/unit)                                                     
+34tgf     ParkingPass re3r3 (2 units @ $25.00 with 2 free)                      $      0.00 $      0.00 $      0.00
+4t34r     MegaMac (4 units @ $20.00/unit with 5% off)                           $     76.00 $      3.04 $     79.04
+                                                                                ====================================
+SUB-TOTALS                                                                      $    627.57 $     36.14 $    663.71
+TOTAL                                                                                                   $    663.71
+
+
+			Thankyou for your purchase!
+			
+======================================================================================================================
+
